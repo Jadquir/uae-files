@@ -1,0 +1,14 @@
+{
+    "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates.json",
+    "DownloadLink": "https://github.com/Jadquir/mra-files/raw/main/MRA.zip",
+    "UpdateChangeLog": [{
+            "version": [
+                1,
+                0
+            ],
+            "VersionDate": "2022-09-13T00:00:00",
+            "VersionTag": 0,
+            "ChangeLog": "- Offical Beta Testing."
+        }
+    ]
+}
