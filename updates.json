@@ -1,14 +1,24 @@
 {
-    "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/uae-files/main/updates.json",
-    "DownloadLink": "https://github.com/Jadquir/mra-files/raw/main/MRA.zip",
-    "UpdateChangeLog": [{
-            "version": [
-                1,
-                0
-            ],
-            "VersionDate": "2022-09-13T00:00:00",
-            "VersionTag": 0,
-            "ChangeLog": "- Offical Beta Testing."
-        }
-    ]
+  "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/uae-files/main/updates.json",
+  "DownloadLink": "https://jadquir.itch.io/united-adobe-editor",
+  "UpdateChangeLog": [
+    {
+      "version": [
+        1,
+        0
+      ],
+      "VersionDate": "2022-09-13T00:00:00",
+      "VersionTag": 1,
+      "ChangeLog": "- Offical Beta Testing."
+    },
+    {
+      "version": [
+        1,
+        1
+      ],
+      "VersionDate": "2022-10-27T00:00:00",
+      "VersionTag": 1,
+      "ChangeLog": "- Fixed Adobe Auidition Splash Screen Changer.\n- Fixed Adobe Media Encoder Splash Screen Changer.\n- Added Adobe InDesign Splash Screen Changer.\n- Added Adobe Dreamweaver Splash Screen Changer.\n- Added Adobe InCopy Splash Screen Changer.\n- Added Adobe Character Animator Splash Screen Changer.\n"
+    }
+  ]
 }
