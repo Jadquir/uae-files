@@ -18,7 +18,16 @@
       ],
       "VersionDate": "2022-10-27T00:00:00",
       "VersionTag": 1,
-      "ChangeLog": "- Fixed Adobe Auidition Splash Screen Changer.\n- Fixed Adobe Media Encoder Splash Screen Changer.\n- Added Adobe InDesign Splash Screen Changer.\n- Added Adobe Dreamweaver Splash Screen Changer.\n- Added Adobe InCopy Splash Screen Changer.\n- Added Adobe Character Animator Splash Screen Changer.\n"
+      "ChangeLog": "- Fixed Adobe Audition Splash Screen Changer.\n- Fixed Adobe Media Encoder Splash Screen Changer.\n- Added Adobe InDesign Splash Screen Changer.\n- Added Adobe Dreamweaver Splash Screen Changer.\n- Added Adobe InCopy Splash Screen Changer.\n- Added Adobe Character Animator Splash Screen Changer.\n"
+    },
+    {
+      "version": [
+        1,
+        1
+      ],
+      "VersionDate": "2023-07-04T00:00:00",
+      "VersionTag": 1,
+      "ChangeLog": "- Added multiple splash screen name possibilities for some Adobe Apps.\n- United Adobe Editor is now open-source meaning you can contribute to the development of United Adobe Editor."
     }
   ]
 }
