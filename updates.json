@@ -28,6 +28,15 @@
       "VersionDate": "2023-07-04T00:00:00",
       "VersionTag": 1,
       "ChangeLog": "- Added multiple splash screen name possibilities for some Resource extractors.\n- United Adobe Editor is now open-source meaning you can contribute to the development of United Adobe Editor."
+    },
+    {
+      "version": [
+        1,
+        3
+      ],
+      "VersionDate": "2023-07-16T00:00:00",
+      "VersionTag": 1,
+      "ChangeLog": "- Added Photoshop Beta.\n Fixed the color disappearing on hover in color selector."
     }
   ]
 }
