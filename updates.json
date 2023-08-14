@@ -46,6 +46,15 @@
       "VersionDate": "2023-08-02T00:00:00",
       "VersionTag": 1,
       "ChangeLog": "- Added Splash Screen Creator Link.\n- Added UAE file loader (Used by Splash Screen Creator Online)."
+    },
+    {
+      "version": [
+        1,
+        5
+      ],
+      "VersionDate": "2023-08-14T00:00:00",
+      "VersionTag": 1,
+      "ChangeLog": "- Added Custom Config Creator.\n- Added Share Config System.\n- Added Explore Configs Page (You can view the configs shared by other users)"
     }
   ]
 }
